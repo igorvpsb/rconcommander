@@ -1,0 +1,17 @@
+RCON COMMANDER - PAGINAS GRATUITAS PARA GITHUB PAGES
+
+ARQUIVOS: index.html, privacidade.html, exclusao-conta.html, styles.css
+
+ATENCAO: RASCUNHOS. NAO PUBLIQUE SEM REVISAR.
+1. Substitua CONTATO_PRIVACIDADE_AQUI por um e-mail real e monitorado nas DUAS paginas.
+2. Confirme identidade/contato do desenvolvedor, fluxo de exclusao de dados e o que fica armazenado localmente.
+3. Remova caixas destacadas 'Antes de publicar'.
+4. Para o plano GitHub Free, crie repositorio PUBLICO por exemplo rcon-commander-privacidade. NUNCA suba codigo privado, keystore ou google-services.json.
+5. Envie apenas estes 4 arquivos HTML/CSS para a raiz do repositorio.
+6. Em Settings > Pages selecione Deploy from a branch / main / (root).
+7. Acesse https://SEU-USUARIO.github.io/rcon-commander-privacidade/
+   Politica: https://SEU-USUARIO.github.io/rcon-commander-privacidade/privacidade.html
+   Exclusao: https://SEU-USUARIO.github.io/rcon-commander-privacidade/exclusao-conta.html
+8. Confira os links sem login e em janela anonima. Depois configure os URLs na Play Console e adicione politica acessivel dentro do app.
+
+A PAGINA WEB NAO APAGA DADOS AUTOMATICAMENTE: exige atendimento real das solicitacoes por e-mail.
